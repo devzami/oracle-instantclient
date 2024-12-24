@@ -122,3 +122,15 @@ export PATH=/usr/lib/oracle/19.3/client64/bin:$PATH
 ```
 
 ### 6. 🚀 Start Your Application
+
+---
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### 🔑 Support
+
+For any issues or support requests, feel free to open an issue in this repository.
